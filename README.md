@@ -1,4 +1,4 @@
-# Game Tree Project (MI Course)
+# Deterministic Two-Player Game Project
 
 This project is developed as part of the **Introduction to Artificial Intelligence** course.  
 The goal of the project is to implement a **deterministic two-player game with full information**, where a human plays against the computer.
